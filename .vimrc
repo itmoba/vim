@@ -1,5 +1,5 @@
 set nocompatible      " be iMproved
-set ttyfast			  " added by me
+set ttyfast		  " added by me
 set incsearch		  " added by me
 set ignorecase		  " added by me
 set colorcolumn=80	  " added by me
